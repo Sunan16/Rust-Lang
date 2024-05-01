@@ -2,6 +2,9 @@
 # Rust-Lang
 Textos e documentos para estudo sobre a linguagem Rust, tem como fins academicos da Fatec.
 
+# Contato
+email: pedrobraoliveira@gmail.com
+
 # Licença do Artigo:
 
 **Licença**
