@@ -5,7 +5,7 @@ Textos e documentos para estudo sobre a linguagem Rust, tem como fins academicos
 # Contato
 email: pedrobraoliveira@gmail.com
 
-# Licença do Artigo:
+# Informações sobre a licença dos artigos:
 
 **Licença**
 **Copyright (C) 2024** Pedro Henrique Oliveira de Farias.
@@ -21,7 +21,7 @@ Esta é uma licença para artigo de estudo livre que garante que você tenha a l
   6. `Definição de Estudo`: Para os fins desta licença, “estudo” refere-se a arquivos, documentos, textos e artigos que compõem o corpo de conhecimento coberto por esta licença que seja publicado em qualquer meio de comunicação.
   7. `Identidade`: Para qualquer uso dessa licença deve informar autor(es) que editaram o artigo de publicação e seus respectivos contatos.
 
-# Licença:
+# Licença do repositorio:
 Copyright 2024 Pedro Henrique Oliveira de Farias
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
